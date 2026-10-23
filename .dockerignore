@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.git/
+.gitignore
+mlruns/
+mlflow.db
+outputs/
+zoo3.csv
+*.csv

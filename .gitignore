@@ -1,0 +1,17 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+mlruns/
+mlflow.db
+mlflow.db-shm
+mlflow.db-wal
+
+outputs/
+.vscode/
+.DS_Store
